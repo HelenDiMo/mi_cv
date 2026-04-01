@@ -6,7 +6,7 @@
 
 Para practicar el código HTML he utilizado mi CV. 
 
-# INSTRUCCIONES DE UTILIZACIÓN
+# HERRAMIENTAS
 
 Para realizar este ejercicio he utilizado:
 
@@ -15,6 +15,39 @@ Para realizar este ejercicio he utilizado:
 - https://developer.mozilla.org/es/docs/Web/HTML
 - https://programminghistorian.org/es/lecciones/introduccion-a-markdown
 
+# CÓMO UTILIZAR ESTE REPOSITORIO    
+
+Al ser un CV en HTML, es un archivo orientado a Departamentos de Recursos Humanos y Recrutadores. 
+
+Para usarlo en Local / Desde la Terminal:
+
+***Clonar el repositorio***
+
+~~~bash
+git clone https://github.com/HelenDiMo/mi_cv.git
+~~~
+
+***Abrir el archivo***
+
+~~~bash
+cd mi_cv
+~~~
+
+***Abrir el archivo HTML en el navegador***
+
+~~~bash
+start index.html
+~~~
 
 
-CREADOR: ELENA DÍAZ
+
+***Descargar el proyecto***
+
+
+
+
+También puedes descargar el archivo .zip directamente de mi repositorio GitHub o en https://github.com/HelenDiMo/mi_cv/archive/refs/heads/main.zip
+
+
+
+**CREADOR:** ELENA DÍAZ
