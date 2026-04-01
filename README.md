@@ -7,3 +7,5 @@ Para realizar este ejercicio he utilizado:
 * Visual Studio Code - Para realizar la "pagina" y para conectar el repositorio de GitHub 
 * https://www.w3schools.com/css/
 * https://developer.mozilla.org/es/docs/Web/HTML
+
+ELENA DÍAZ
